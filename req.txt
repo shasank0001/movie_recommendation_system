@@ -1,0 +1,3 @@
+pandes
+numpy
+matplotlib
